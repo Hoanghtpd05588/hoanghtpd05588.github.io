@@ -9,9 +9,9 @@ body {
     min-height: 100vh;
 }
 .card {
-    width: 400px;
+    width: 600px;
     background: #fff;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
@@ -29,8 +29,8 @@ body {
     object-fit: cover;
 }
 .card_avatar {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     border: 5px solid #fff;
     background: #fff;
@@ -38,7 +38,7 @@ body {
     left: 50%;
     transform: translateX(-50%);
     overflow: hidden;
-    margin-top: -60px;
+    margin-top: -110px;
 }
 .card_avatar img {
     width: 100%;
